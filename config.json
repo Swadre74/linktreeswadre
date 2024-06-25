@@ -1,0 +1,14 @@
+{
+    "username": "swadre",
+    "isLanyard": true,
+    "discordUserId": "765033883086880838",
+    "avatarImg": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/poco-brawl-stars-dicas.png",
+    "buttons": [
+        {
+            "title": "Discord",
+            "link": "https://pokedoro-next.vercel.app/"
+        }
+    ],
+    "discordLink": "https://discord.com/users/765033883086880838",
+    "footerText": "Made with ♥, ustav"
+}
